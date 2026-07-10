@@ -1,5 +1,5 @@
 # Customer-Support-Ticket-Analyzer-using-python
-Here’s a polished **README.md** draft for your GitHub repository that explains your ticket analyzer project clearly and professiona
+Here’s a polished **README.md** draft for your GitHub repository that 
 
 A simple Python-based ticket management and analysis system.  
 This project demonstrates how to handle customer support tickets, clean text data, and generate insights using keyword analysis and priority tracking.
