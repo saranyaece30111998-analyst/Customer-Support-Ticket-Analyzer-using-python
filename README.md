@@ -102,6 +102,4 @@ Developed by **Saranya**
 Engineering graduate & Data Analyst | Skilled in Python, SQL, Power BI, and Excel
 ```
 
----
 
-Would you like me to also create a **shorter version** of the README (like a one-page quick-start guide) so you can use it for recruiters or portfolio highlights?
